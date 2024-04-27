@@ -34,6 +34,9 @@ Inteligencia Artificial Basada en Datos: Se centra en el aprendizaje a partir de
 
 
 ## Video inteligencia artificial
+<p align="center">
+<img src ="IMG/ia2.jpg" height="100">
+</p>
 [![Ver video](https://www.youtube.com/watch?v=8lMIdrlIWOQ)
 
 
